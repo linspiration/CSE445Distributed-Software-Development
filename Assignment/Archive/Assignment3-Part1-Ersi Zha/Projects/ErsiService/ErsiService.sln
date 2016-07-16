@@ -1,0 +1,69 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "ErsiService", "http://localhost:50237", "{3549BD14-A882-4600-9744-946C05EBED08}"
+	ProjectSection(WebsiteProperties) = preProject
+		UseIISExpress = "true"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_50237"
+		Debug.AspNetCompiler.PhysicalPath = "..\..\WebSites\ErsiService\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_50237\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_50237"
+		Release.AspNetCompiler.PhysicalPath = "..\..\WebSites\ErsiService\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_50237\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		SlnRelativePath = "..\..\WebSites\ErsiService\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "TestServices", "http://localhost:53968", "{53D410F3-9CD1-4EB4-8890-CF5E1BCE7043}"
+	ProjectSection(WebsiteProperties) = preProject
+		UseIISExpress = "true"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_53968"
+		Debug.AspNetCompiler.PhysicalPath = "..\..\WebSites\TestServices\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_53968\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_53968"
+		Release.AspNetCompiler.PhysicalPath = "..\..\WebSites\TestServices\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_53968\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		SlnRelativePath = "..\..\WebSites\TestServices\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+	ProjectSection(ProjectDependencies) = postProject
+		{3549BD14-A882-4600-9744-946C05EBED08} = {3549BD14-A882-4600-9744-946C05EBED08}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3549BD14-A882-4600-9744-946C05EBED08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3549BD14-A882-4600-9744-946C05EBED08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3549BD14-A882-4600-9744-946C05EBED08}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{3549BD14-A882-4600-9744-946C05EBED08}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{53D410F3-9CD1-4EB4-8890-CF5E1BCE7043}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53D410F3-9CD1-4EB4-8890-CF5E1BCE7043}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53D410F3-9CD1-4EB4-8890-CF5E1BCE7043}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{53D410F3-9CD1-4EB4-8890-CF5E1BCE7043}.Release|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,60 @@
+C:\Users\charles\Documents\Visual Studio 2012\Projects\XMLService\XMLClient\bin\XMLClient.dll
+C:\Users\charles\Documents\Visual Studio 2012\Projects\XMLService\XMLClient\bin\XMLClient.pdb
+C:\Users\charles\Documents\Visual Studio 2012\Projects\XMLService\XMLClient\bin\Antlr3.Runtime.dll
+C:\Users\charles\Documents\Visual Studio 2012\Projects\XMLService\XMLClient\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\charles\Documents\Visual Studio 2012\Projects\XMLService\XMLClient\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Users\charles\Documents\Visual Studio 2012\Projects\XMLService\XMLClient\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\charles\Documents\Visual Studio 2012\Projects\XMLService\XMLClient\bin\DotNetOpenAuth.Core.dll
+C:\Users\charles\Documents\Visual Studio 2012\Projects\XMLService\XMLClient\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\charles\Documents\Visual Studio 2012\Projects\XMLService\XMLClient\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\charles\Documents\Visual Studio 2012\Projects\XMLService\XMLClient\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\charles\Documents\Visual Studio 2012\Projects\XMLService\XMLClient\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\charles\Documents\Visual Studio 2012\Projects\XMLService\XMLClient\bin\EntityFramework.dll
+C:\Users\charles\Documents\Visual Studio 2012\Projects\XMLService\XMLClient\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Users\charles\Documents\Visual Studio 2012\Projects\XMLService\XMLClient\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\charles\Documents\Visual Studio 2012\Projects\XMLService\XMLClient\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\charles\Documents\Visual Studio 2012\Projects\XMLService\XMLClient\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\charles\Documents\Visual Studio 2012\Projects\XMLService\XMLClient\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\charles\Documents\Visual Studio 2012\Projects\XMLService\XMLClient\bin\System.Web.Optimization.dll
+C:\Users\charles\Documents\Visual Studio 2012\Projects\XMLService\XMLClient\bin\System.Web.Providers.dll
+C:\Users\charles\Documents\Visual Studio 2012\Projects\XMLService\XMLClient\bin\WebGrease.dll
+C:\Users\charles\Documents\Visual Studio 2012\Projects\XMLService\XMLClient\bin\EntityFramework.xml
+C:\Users\charles\Documents\Visual Studio 2012\Projects\XMLService\XMLClient\bin\DotNetOpenAuth.Core.xml
+C:\Users\charles\Documents\Visual Studio 2012\Projects\XMLService\XMLClient\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\charles\Documents\Visual Studio 2012\Projects\XMLService\XMLClient\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\charles\Documents\Visual Studio 2012\Projects\XMLService\XMLClient\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\charles\Documents\Visual Studio 2012\Projects\XMLService\XMLClient\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\charles\Documents\Visual Studio 2012\Projects\XMLService\XMLClient\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\charles\Documents\Visual Studio 2012\Projects\XMLService\XMLClient\obj\Debug\XMLClient.csprojResolveAssemblyReference.cache
+C:\Users\charles\Documents\Visual Studio 2012\Projects\XMLService\XMLClient\obj\Debug\XMLClient.dll
+C:\Users\charles\Documents\Visual Studio 2012\Projects\XMLService\XMLClient\obj\Debug\XMLClient.pdb
+C:\Users\charles\Desktop\Assign 4 part 2\Projects\XMLService\XMLClient\bin\XMLClient.dll
+C:\Users\charles\Desktop\Assign 4 part 2\Projects\XMLService\XMLClient\bin\XMLClient.pdb
+C:\Users\charles\Desktop\Assign 4 part 2\Projects\XMLService\XMLClient\bin\Antlr3.Runtime.dll
+C:\Users\charles\Desktop\Assign 4 part 2\Projects\XMLService\XMLClient\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\charles\Desktop\Assign 4 part 2\Projects\XMLService\XMLClient\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Users\charles\Desktop\Assign 4 part 2\Projects\XMLService\XMLClient\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\charles\Desktop\Assign 4 part 2\Projects\XMLService\XMLClient\bin\DotNetOpenAuth.Core.dll
+C:\Users\charles\Desktop\Assign 4 part 2\Projects\XMLService\XMLClient\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\charles\Desktop\Assign 4 part 2\Projects\XMLService\XMLClient\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\charles\Desktop\Assign 4 part 2\Projects\XMLService\XMLClient\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\charles\Desktop\Assign 4 part 2\Projects\XMLService\XMLClient\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\charles\Desktop\Assign 4 part 2\Projects\XMLService\XMLClient\bin\EntityFramework.dll
+C:\Users\charles\Desktop\Assign 4 part 2\Projects\XMLService\XMLClient\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Users\charles\Desktop\Assign 4 part 2\Projects\XMLService\XMLClient\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\charles\Desktop\Assign 4 part 2\Projects\XMLService\XMLClient\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\charles\Desktop\Assign 4 part 2\Projects\XMLService\XMLClient\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\charles\Desktop\Assign 4 part 2\Projects\XMLService\XMLClient\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\charles\Desktop\Assign 4 part 2\Projects\XMLService\XMLClient\bin\System.Web.Optimization.dll
+C:\Users\charles\Desktop\Assign 4 part 2\Projects\XMLService\XMLClient\bin\System.Web.Providers.dll
+C:\Users\charles\Desktop\Assign 4 part 2\Projects\XMLService\XMLClient\bin\WebGrease.dll
+C:\Users\charles\Desktop\Assign 4 part 2\Projects\XMLService\XMLClient\bin\EntityFramework.xml
+C:\Users\charles\Desktop\Assign 4 part 2\Projects\XMLService\XMLClient\bin\DotNetOpenAuth.Core.xml
+C:\Users\charles\Desktop\Assign 4 part 2\Projects\XMLService\XMLClient\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\charles\Desktop\Assign 4 part 2\Projects\XMLService\XMLClient\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\charles\Desktop\Assign 4 part 2\Projects\XMLService\XMLClient\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\charles\Desktop\Assign 4 part 2\Projects\XMLService\XMLClient\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\charles\Desktop\Assign 4 part 2\Projects\XMLService\XMLClient\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\charles\Desktop\Assign 4 part 2\Projects\XMLService\XMLClient\obj\Debug\XMLClient.csprojResolveAssemblyReference.cache
+C:\Users\charles\Desktop\Assign 4 part 2\Projects\XMLService\XMLClient\obj\Debug\XMLClient.dll
+C:\Users\charles\Desktop\Assign 4 part 2\Projects\XMLService\XMLClient\obj\Debug\XMLClient.pdb

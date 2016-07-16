@@ -1,0 +1,5 @@
+C:\Users\ckcheng83\Documents\Visual Studio 2010\Projects\SMS_Service\SMS_Service\bin\SMS_Service.dll
+C:\Users\ckcheng83\Documents\Visual Studio 2010\Projects\SMS_Service\SMS_Service\bin\SMS_Service.pdb
+C:\Users\ckcheng83\Documents\Visual Studio 2010\Projects\SMS_Service\SMS_Service\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ckcheng83\Documents\Visual Studio 2010\Projects\SMS_Service\SMS_Service\obj\Debug\SMS_Service.dll
+C:\Users\ckcheng83\Documents\Visual Studio 2010\Projects\SMS_Service\SMS_Service\obj\Debug\SMS_Service.pdb

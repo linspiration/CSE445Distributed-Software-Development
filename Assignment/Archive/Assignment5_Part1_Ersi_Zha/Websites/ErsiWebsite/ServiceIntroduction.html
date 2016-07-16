@@ -1,0 +1,52 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <style type="text/css">
+        .auto-style1
+        {
+            color: #0000FF;
+        }
+        .auto-style2
+        {
+            font-size: medium;
+        }
+        .auto-style3
+        {
+            color: #000000;
+        }
+    </style>
+</head>
+<body>
+
+    <p>
+        <span class="auto-style1"><strong>Service Name</strong></span>:<strong>Bing Maps SOAP Search Services</strong></p>
+    <p class="auto-style2">
+        <span class="auto-style1"><strong>Service description</strong></span>:The Bing Maps Search Service is comprised of classes and enumeration that allow you</p>
+    <p>
+        to parse a search query as well as return search results.</p>
+    <p class="auto-style1">
+        <strong>Operation:</strong></p>
+    <p class="auto-style1">
+        <span class="auto-style3">Name:Search(searchRequest) Return type:SearchResponse </span>
+    </p>
+    <p class="auto-style1">
+        <strong>Sample Code to invoke the service:</strong></p>
+    <p class="auto-style3">
+        BingSearch.SearchRequest searchRequest = new BingSearch.SearchRequest();</p>
+    <p class="auto-style3">
+&nbsp;searchRequest.Credentials = new BingSearch.Credentials();
+    </p>
+    <p class="auto-style3">
+        searchRequest.Query =&quot;&quot;;</p>
+    <p class="auto-style1">
+        <span class="auto-style3">BingSearch.SearchServiceClient searchClient = new BingSearch.SearchServiceClient(&quot;BasicHttpBinding_ISearchService&quot;); </span>
+    </p>
+    <p class="auto-style1">
+        <span class="auto-style3">BingSearch.SearchResponse searchResponse = searchClient.Search(searchRequest); </span>
+    </p>
+    <p class="auto-style1">
+        <span class="auto-style3">BingSearch.SearchResultBase[] resultBase = searchResponse.ResultSets[0].Results;</span></p>
+
+</body>
+</html>

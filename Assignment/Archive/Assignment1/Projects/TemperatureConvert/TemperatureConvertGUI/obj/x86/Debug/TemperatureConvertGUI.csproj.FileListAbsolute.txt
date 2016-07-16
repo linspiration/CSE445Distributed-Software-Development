@@ -1,0 +1,10 @@
+C:\Users\charles\Documents\Visual Studio 2010\Projects\TemperatureConvert\TemperatureConvertGUI\bin\Debug\TemperatureConvertGUI.exe.config
+C:\Users\charles\Documents\Visual Studio 2010\Projects\TemperatureConvert\TemperatureConvertGUI\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\charles\Documents\Visual Studio 2010\Projects\TemperatureConvert\TemperatureConvertGUI\obj\x86\Debug\TemperatureConvertGUI.Form1.resources
+C:\Users\charles\Documents\Visual Studio 2010\Projects\TemperatureConvert\TemperatureConvertGUI\obj\x86\Debug\TemperatureConvertGUI.Properties.Resources.resources
+C:\Users\charles\Documents\Visual Studio 2010\Projects\TemperatureConvert\TemperatureConvertGUI\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\charles\Documents\Visual Studio 2010\Projects\TemperatureConvert\TemperatureConvertGUI\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\charles\Documents\Visual Studio 2010\Projects\TemperatureConvert\TemperatureConvertGUI\bin\Debug\TemperatureConvertGUI.exe
+C:\Users\charles\Documents\Visual Studio 2010\Projects\TemperatureConvert\TemperatureConvertGUI\bin\Debug\TemperatureConvertGUI.pdb
+C:\Users\charles\Documents\Visual Studio 2010\Projects\TemperatureConvert\TemperatureConvertGUI\obj\x86\Debug\TemperatureConvertGUI.exe
+C:\Users\charles\Documents\Visual Studio 2010\Projects\TemperatureConvert\TemperatureConvertGUI\obj\x86\Debug\TemperatureConvertGUI.pdb

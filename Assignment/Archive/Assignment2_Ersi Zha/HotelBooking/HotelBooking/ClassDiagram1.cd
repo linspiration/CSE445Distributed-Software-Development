@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="HotelBooking.Decoder">
+    <Position X="6.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAA=</HashCode>
+      <FileName>Decoder.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HotelBooking.Encoder">
+    <Position X="1.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Encoder.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HotelBooking.HotelSupplier">
+    <Position X="6.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAEAAAAAAAAAAEAAAAQEBgAAAAAAAAAAABAAAIAEAA=</HashCode>
+      <FileName>HotelSupplier.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HotelBooking.MultiCellBuffer">
+    <Position X="4" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAAAAAAAACCAAAQBAAAAAAAABAAAAAAAAgAAA=</HashCode>
+      <FileName>MultiCellBuffer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HotelBooking.myApplication">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQABAAAAAA=</HashCode>
+      <FileName>myApplication.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HotelBooking.OrderClass">
+    <Position X="8.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAQAAAAAAAAAEACABEBEAAAAAgAAAAAAQAAAAAAA=</HashCode>
+      <FileName>OrderClass.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HotelBooking.TravelAgency">
+    <Position X="1.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAABAAIAAAAQAAAAAAAAAAAEAABAAABEAAEAAAA=</HashCode>
+      <FileName>TravelAgency.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Delegate Name="HotelBooking.priceCutEvent">
+    <Position X="4" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAACAAAAAAAAAA=</HashCode>
+      <FileName>myApplication.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Font Name="Segoe UI" Size="9.05" />
+</ClassDiagram>

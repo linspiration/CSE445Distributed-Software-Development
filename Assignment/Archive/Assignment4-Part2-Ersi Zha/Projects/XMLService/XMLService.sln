@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "XMLService", "http://localhost:49894", "{DC6631EE-E775-416F-A669-CECF48F18F51}"
+	ProjectSection(WebsiteProperties) = preProject
+		UseIISExpress = "true"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_49894"
+		Debug.AspNetCompiler.PhysicalPath = "..\..\WebSites\XMLService\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_49894\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_49894"
+		Release.AspNetCompiler.PhysicalPath = "..\..\WebSites\XMLService\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_49894\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		SlnRelativePath = "..\..\WebSites\XMLService\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XMLClient", "XMLClient\XMLClient.csproj", "{64E8D4B2-43D3-4258-BD61-540DCB5AA10B}"
+	ProjectSection(ProjectDependencies) = postProject
+		{DC6631EE-E775-416F-A669-CECF48F18F51} = {DC6631EE-E775-416F-A669-CECF48F18F51}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC6631EE-E775-416F-A669-CECF48F18F51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC6631EE-E775-416F-A669-CECF48F18F51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC6631EE-E775-416F-A669-CECF48F18F51}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC6631EE-E775-416F-A669-CECF48F18F51}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{64E8D4B2-43D3-4258-BD61-540DCB5AA10B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64E8D4B2-43D3-4258-BD61-540DCB5AA10B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64E8D4B2-43D3-4258-BD61-540DCB5AA10B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64E8D4B2-43D3-4258-BD61-540DCB5AA10B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

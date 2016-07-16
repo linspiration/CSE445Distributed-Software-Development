@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Ersi Zha, Assignment 4 -->
+<?xml-stylesheet type="text/xsl" href="Services.xsl"?>
+<Services>
+  <!-- 1 -->
+  <Service ServiceUrl="http://venus.eas.asu.edu/WSRepository/Services/NumberGuess/Service.svc">
+    <Name>Number Guess</Name>
+    <Provider>ASU</Provider>
+    <Operations>
+      <Operation>
+        <Name>secretNumber</Name>
+        <MsgIn>int</MsgIn>
+        <MsgIn>int</MsgIn>
+        <MsgOut>int</MsgOut>
+      </Operation>
+      <Operation>
+        <Name>checkNumber</Name>
+        <MsgIn>int</MsgIn>
+        <MsgIn>int</MsgIn>
+        <MsgOut>string</MsgOut>
+      </Operation>
+    </Operations>
+    <Category Plantform="C# .Net 4.5">svc</Category >
+  </Service>
+
+  <!-- 2 -->
+  <Service ServiceUrl="http://venus.eas.asu.edu/WSRepository/Services/FileService/Service.svc"
+           TryItUrl="http://venus.eas.asu.edu/wsrepository/Services/FileServiceTryIt/">
+    <Name>File Service</Name>
+    <Provider>ASU</Provider>
+    <Operations>
+      <Operation>
+        <Name>PutStringToFile</Name>
+        <MsgIn>string</MsgIn>
+        <MsgIn>string</MsgIn>
+        <MsgOut>None</MsgOut>
+      </Operation>
+      <Operation>
+        <Name>GetStringFromFile</Name>
+        <MsgIn>string</MsgIn>
+        <MsgOut>string</MsgOut>
+      </Operation>
+    </Operations>
+    <Category Plantform="C# .Net 4.5">svc</Category >
+  </Service>
+  
+  <!-- 3 -->
+  <Service ServiceUrl="http://venus.eas.asu.edu/WSRepository/Services/EncryptionWcf/Service.svc">
+    <Name>Crypto service</Name>
+    <Provider>ASU</Provider>
+    <Operations>
+      <Operation>
+        <Name>Encrypt</Name>
+        <MsgIn>string</MsgIn>
+        <MsgOut>string</MsgOut>
+      </Operation>
+      <Operation>
+        <Name>Decrypt</Name>
+        <MsgIn>string</MsgIn>
+        <MsgOut>string</MsgOut>
+      </Operation>
+    </Operations>
+    <Category Plantform="C# .Net 4.5">svc</Category >
+  </Service>
+
+  <!-- 4 -->
+  <Service ServiceUrl="http://venus.eas.asu.edu/WSRepository/Services/Messenger/Service.svc">
+    <Name>Messenger service</Name>
+    <Provider>ASU</Provider>
+    <Operations>
+      <Operation>
+        <Name>SendMessage</Name>
+        <MsgIn>string</MsgIn>
+        <MsgIn>string</MsgIn>
+        <MsgOut>bool</MsgOut>
+      </Operation>
+      <Operation>
+        <Name>ReceiveMessage</Name>
+        <MsgIn>string</MsgIn>
+        <MsgOut>string[]</MsgOut>
+      </Operation>
+    </Operations>
+    <Category Plantform="C# .Net 4.5">svc</Category >
+  </Service>
+
+
+  <!-- 5 -->
+  <Service ServiceUrl="http://venus.eas.asu.edu/WSRepository/Services/ImageVerifierSvc/Service.svc" 
+           TryItUrl="http://venus.eas.asu.edu/WSRepository/Services/ImageVerifierSvc/TryIt.aspx">
+    <Name>Image verifier</Name>
+    <Provider>ASU</Provider>
+    <Operations>
+      <Operation>
+        <Name>GetImage</Name>
+        <MsgIn>None</MsgIn>
+        <MsgOut>Stream</MsgOut>
+      </Operation>
+      <Operation>
+        <Name>GetVerifierString</Name>
+        <MsgIn>string</MsgIn>
+        <MsgOut>None</MsgOut>
+      </Operation>
+    </Operations>
+    <Category Plantform="C# .Net 4.5">svc</Category >
+  </Service>
+  
+  <!-- 6 -->
+  <Service ServiceUrl="http://venus.eas.asu.edu/WSRepository/Services/NumberGuessRest/Service.svc">
+    <Name>Number Guess</Name>
+    <Provider>ASU</Provider>
+    <Operations>
+      <Operation>
+        <Name>secretNumber</Name>
+        <MsgIn>int</MsgIn>
+        <MsgIn>int</MsgIn>
+        <MsgOut>int</MsgOut>
+      </Operation>
+      <Operation>
+        <Name>checkNumber</Name>
+        <MsgIn>int</MsgIn>
+        <MsgIn>int</MsgIn>
+        <MsgOut>string</MsgOut>
+      </Operation>
+    </Operations>
+    <Category Plantform="C# .Net 4.5">RESTful</Category >
+  </Service>
+
+
+  <!-- 7 -->
+  <Service ServiceUrl="http://venus.eas.asu.edu/WSRepository/Services/WcfRestService4/Service1/">
+    <Name>Basic Three</Name>
+    <Provider>ASU</Provider>
+    <Operations>
+      <Operation>
+        <Name>PiValue</Name>
+        <MsgIn>None</MsgIn>
+        <MsgOut>double</MsgOut>
+      </Operation>
+      <Operation>
+        <Name>AbsValue</Name>
+        <MsgIn>int</MsgIn>
+        <MsgOut>int</MsgOut>
+      </Operation>
+      <Operation>
+        <Name>add2</Name>
+        <MsgIn>int</MsgIn>
+        <MsgIn>int</MsgIn>
+        <MsgOut>int</MsgOut>
+      </Operation>
+    </Operations>
+    <Category Plantform="C# .Net 4.5">RESTful</Category >
+  </Service>
+
+  <!-- 8-->
+  <Service ServiceUrl="http://venus.eas.asu.edu/WSRepository/Services/ImageVerifier/Service.svc">
+    <Name>Image verifier</Name>
+    <Provider>ASU</Provider>
+    <Operations>
+      <Operation>
+        <Name>GetImage</Name>
+        <MsgIn>None</MsgIn>
+        <MsgOut>Stream</MsgOut>
+      </Operation>
+      <Operation>
+        <Name>GetVerifierString</Name>
+        <MsgIn>string</MsgIn>
+        <MsgOut>None</MsgOut>
+      </Operation>
+    </Operations>
+    <Category Plantform="C# .Net 4.5">RESTful</Category >
+  </Service>
+
+  <!-- 9-->
+  <Service ServiceUrl="http://webstrar21.fulton.asu.edu/page0/page00/Service.svc">
+    <Name>LBsKgConvert</Name>
+    <Provider>Jiaqi He</Provider>
+    <Operations>
+      <Operation>
+        <Name>KgToLBs</Name>
+        <MsgIn>double</MsgIn>
+        <MsgOut>double</MsgOut>
+      </Operation>
+      <Operation>
+        <Name>LBsToKg</Name>
+        <MsgIn>double</MsgIn>
+        <MsgOut>double</MsgOut>
+      </Operation>
+    </Operations>
+    <Category Plantform="C# .Net 4.5">RESTful</Category >
+  </Service>
+
+  <!-- 10-->
+  <Service ServiceUrl="http://webstrar21.fulton.asu.edu/page0/page01/Service.svc">
+    <Name>Store Loactor</Name>
+    <Provider>Ersi Zha</Provider>
+    <Operations>
+      <Operation>
+        <Name>findNearestStore</Name>
+        <MsgIn>string</MsgIn>
+        <MsgIn>string</MsgIn>
+        <MsgOut>string</MsgOut>
+      </Operation>
+    </Operations>
+    <Category Plantform="C# .Net 4.5">RESTful</Category >
+  </Service>
+
+  <!-- 11 -->
+  <Service ServiceUrl="http://venus.eas.asu.edu/WSRepository/Services/BasicThree/Service.asmx">
+    <Name>Basic Three</Name>
+    <Provider>ASU</Provider>
+    <Operations>
+      <Operation>
+        <Name>PiValue</Name>
+        <MsgIn>None</MsgIn>
+        <MsgOut>double</MsgOut>
+      </Operation>
+      <Operation>
+        <Name>AbsValue</Name>
+        <MsgIn>int</MsgIn>
+        <MsgOut>int</MsgOut>
+      </Operation>
+      <Operation>
+        <Name>add2</Name>
+        <MsgIn>int</MsgIn>
+        <MsgIn>int</MsgIn>
+        <MsgOut>int</MsgOut>
+      </Operation>
+    </Operations>
+    <Category Plantform="C# .Net 4.5">asmx</Category >
+  </Service>
+
+  <!-- 12 -->
+  <Service ServiceUrl="http://venus.eas.asu.edu/WSRepository/Services/Encryption/Service.asmx">
+    <Name>Crypto service</Name>
+    <Provider>ASU</Provider>
+    <Operations>
+      <Operation>
+        <Name>Encrypt</Name>
+        <MsgIn>string</MsgIn>
+        <MsgOut>string</MsgOut>
+      </Operation>
+      <Operation>
+        <Name>Decrypt</Name>
+        <MsgIn>string</MsgIn>
+        <MsgOut>string</MsgOut>
+      </Operation>
+    </Operations>
+    <Category Plantform="C# .Net 4.5">asmx</Category >
+  </Service>
+
+
+  <!-- 13 -->
+  <Service ServiceUrl="http://www.mobilefish.com/services/web_service/countries.php?wsdl">
+    <Name>Countries web service</Name>
+    <Provider>mobilefish</Provider>
+    <Operations>
+      <Operation>
+        <Name>getIANAInfo</Name>
+        <MsgIn>string</MsgIn>
+        <MsgOut>string[]</MsgOut>
+      </Operation>
+      <Operation>
+        <Name>countryInfoByIana</Name>
+        <MsgIn>string</MsgIn>
+        <MsgOut>string[]</MsgOut>
+      </Operation>
+      <Operation>
+        <Name>regionsInfoByIana</Name>
+        <MsgIn>string</MsgIn>
+        <MsgOut>string[]</MsgOut>
+      </Operation>
+    </Operations>
+    <Category Plantform="C# .Net 4.5">php</Category >
+  </Service>
+
+  <!-- 14 -->
+  <Service ServiceUrl="http://www.ecubicle.net/iptocountry.asmx?wsdl">
+    <Name>Map IP Address to Country</Name>
+    <Provider>eCubicle</Provider>
+    <Operations>
+      <Operation>
+        <Name>FindCountryAsString</Name>
+        <MsgIn>string</MsgIn>
+        <MsgOut>string</MsgOut>
+      </Operation>
+      <Operation>
+        <Name>FindCountryAsXml</Name>
+        <MsgIn>string</MsgIn>
+        <MsgOut>XML</MsgOut>
+      </Operation>
+    </Operations>
+    <Category Plantform="C# .Net 4.5">asmx</Category >
+  </Service>
+
+  <!-- 15 -->
+  <Service ServiceUrl="http://www.codebump.com/services/zipcodelookup.asmx">
+    <Name>ZipCodes Lookup</Name>
+    <Provider>sctrl</Provider>
+    <Operations>
+      <Operation>
+        <Name>GetDistanceBetweenZipCodes</Name>
+        <MsgIn>string</MsgIn>
+        <MsgIn>string</MsgIn>
+        <MsgOut>string</MsgOut>
+      </Operation>
+      <Operation>
+        <Name>GetZipCodeCoordinates</Name>
+        <MsgIn>string</MsgIn>
+        <MsgOut>string</MsgOut>
+      </Operation>
+    </Operations>
+    <Category Plantform="C# .Net 4.5">asmx</Category >
+  </Service>
+</Services>
+

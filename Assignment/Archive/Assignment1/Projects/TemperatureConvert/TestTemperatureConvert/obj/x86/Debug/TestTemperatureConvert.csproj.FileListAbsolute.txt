@@ -1,0 +1,6 @@
+C:\Users\charles\Documents\Visual Studio 2010\Projects\TemperatureConvert\TestTemperatureConvert\bin\Debug\TestTemperatureConvert.exe.config
+C:\Users\charles\Documents\Visual Studio 2010\Projects\TemperatureConvert\TestTemperatureConvert\bin\Debug\TestTemperatureConvert.exe
+C:\Users\charles\Documents\Visual Studio 2010\Projects\TemperatureConvert\TestTemperatureConvert\bin\Debug\TestTemperatureConvert.pdb
+C:\Users\charles\Documents\Visual Studio 2010\Projects\TemperatureConvert\TestTemperatureConvert\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\charles\Documents\Visual Studio 2010\Projects\TemperatureConvert\TestTemperatureConvert\obj\x86\Debug\TestTemperatureConvert.exe
+C:\Users\charles\Documents\Visual Studio 2010\Projects\TemperatureConvert\TestTemperatureConvert\obj\x86\Debug\TestTemperatureConvert.pdb

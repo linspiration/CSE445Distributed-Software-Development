@@ -1,0 +1,4 @@
+c:\users\charles\documents\visual studio 2012\Projects\ErsiA5Part1\ErsiLibrary\bin\Debug\ErsiLibrary.dll
+c:\users\charles\documents\visual studio 2012\Projects\ErsiA5Part1\ErsiLibrary\bin\Debug\ErsiLibrary.pdb
+c:\users\charles\documents\visual studio 2012\Projects\ErsiA5Part1\ErsiLibrary\obj\Debug\ErsiLibrary.dll
+c:\users\charles\documents\visual studio 2012\Projects\ErsiA5Part1\ErsiLibrary\obj\Debug\ErsiLibrary.pdb

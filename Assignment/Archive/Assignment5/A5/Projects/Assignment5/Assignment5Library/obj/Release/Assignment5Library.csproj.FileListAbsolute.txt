@@ -1,0 +1,5 @@
+C:\Users\charles\Desktop\A5\Projects\Assignment5\Assignment5Library\bin\Release\Assignment5Library.dll
+C:\Users\charles\Desktop\A5\Projects\Assignment5\Assignment5Library\bin\Release\Assignment5Library.pdb
+C:\Users\charles\Desktop\A5\Projects\Assignment5\Assignment5Library\obj\Release\Assignment5Library.csprojResolveAssemblyReference.cache
+C:\Users\charles\Desktop\A5\Projects\Assignment5\Assignment5Library\obj\Release\Assignment5Library.dll
+C:\Users\charles\Desktop\A5\Projects\Assignment5\Assignment5Library\obj\Release\Assignment5Library.pdb

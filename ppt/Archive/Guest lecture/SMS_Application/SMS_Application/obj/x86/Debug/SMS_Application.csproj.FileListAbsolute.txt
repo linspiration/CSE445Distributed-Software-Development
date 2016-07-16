@@ -1,0 +1,6 @@
+C:\Users\ckcheng83\Documents\Visual Studio 2010\Projects\SMS_Application\SMS_Application\bin\Debug\SMS_Application.exe.config
+C:\Users\ckcheng83\Documents\Visual Studio 2010\Projects\SMS_Application\SMS_Application\bin\Debug\SMS_Application.exe
+C:\Users\ckcheng83\Documents\Visual Studio 2010\Projects\SMS_Application\SMS_Application\bin\Debug\SMS_Application.pdb
+C:\Users\ckcheng83\Documents\Visual Studio 2010\Projects\SMS_Application\SMS_Application\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ckcheng83\Documents\Visual Studio 2010\Projects\SMS_Application\SMS_Application\obj\x86\Debug\SMS_Application.exe
+C:\Users\ckcheng83\Documents\Visual Studio 2010\Projects\SMS_Application\SMS_Application\obj\x86\Debug\SMS_Application.pdb

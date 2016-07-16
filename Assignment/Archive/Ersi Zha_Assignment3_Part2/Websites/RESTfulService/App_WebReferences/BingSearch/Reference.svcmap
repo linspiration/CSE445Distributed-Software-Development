@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="4ad3338f-a91d-4c81-af25-aac24fc6e52c" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://dev.virtualearth.net/webservices/v1/metadata/searchservice/dev.virtualearth.net.webservices.v1.search.wsdl" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="schemas.xsd" MetadataType="Schema" ID="a71762e5-9c06-4537-aac0-86f97f4466ec" SourceId="1" SourceUrl="http://dev.virtualearth.net/webservices/v1/metadata/searchservice/schemas.microsoft.com.2003.10.Serialization.xsd" />
+    <MetadataFile FileName="SearchService.wsdl" MetadataType="Wsdl" ID="ff563268-f7b8-470b-94f9-3f975dcf5379" SourceId="1" SourceUrl="http://dev.virtualearth.net/webservices/v1/metadata/searchservice/dev.virtualearth.net.webservices.v1.search.wsdl" />
+    <MetadataFile FileName="dev.xsd" MetadataType="Schema" ID="0e15ca07-324b-40cb-9012-50856a10cfef" SourceId="1" SourceUrl="http://dev.virtualearth.net/webservices/v1/metadata/searchservice/dev.virtualearth.net.webservices.v1.search.contracts.xsd" />
+    <MetadataFile FileName="dev1.xsd" MetadataType="Schema" ID="652981ad-1ffa-4963-829c-83cc20da1489" SourceId="1" SourceUrl="http://dev.virtualearth.net/webservices/v1/metadata/searchservice/dev.virtualearth.net.webservices.v1.search.xsd" />
+    <MetadataFile FileName="schemas1.xsd" MetadataType="Schema" ID="b6d1914b-6c6f-4660-9abd-87d152be4fb1" SourceId="1" SourceUrl="http://dev.virtualearth.net/webservices/v1/metadata/searchservice/schemas.microsoft.com.2003.10.Serialization.Arrays.xsd" />
+    <MetadataFile FileName="dev2.xsd" MetadataType="Schema" ID="1fc022bd-ef5b-4a25-97af-4f3488d0bb32" SourceId="1" SourceUrl="http://dev.virtualearth.net/webservices/v1/metadata/searchservice/dev.virtualearth.net.webservices.v1.common.xsd" />
+    <MetadataFile FileName="dev.wsdl" MetadataType="Wsdl" ID="fbd97f46-08fc-451a-9094-973644a819df" SourceId="1" SourceUrl="http://dev.virtualearth.net/webservices/v1/metadata/searchservice/dev.virtualearth.net.webservices.v1.search.contracts.wsdl" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

@@ -1,0 +1,5 @@
+C:\Users\charles\Documents\Visual Studio 2012\Projects\Assignment5\Assignment5Library\obj\Debug\Assignment5Library.csprojResolveAssemblyReference.cache
+C:\Users\charles\Documents\Visual Studio 2012\Projects\Assignment5\Assignment5Library\bin\Debug\Assignment5Library.dll
+C:\Users\charles\Documents\Visual Studio 2012\Projects\Assignment5\Assignment5Library\bin\Debug\Assignment5Library.pdb
+C:\Users\charles\Documents\Visual Studio 2012\Projects\Assignment5\Assignment5Library\obj\Debug\Assignment5Library.dll
+C:\Users\charles\Documents\Visual Studio 2012\Projects\Assignment5\Assignment5Library\obj\Debug\Assignment5Library.pdb

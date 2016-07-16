@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schema xmlns="http://www.w3.org/2001/XMLSchema"           
+                      elementFormDefault="qualified" attributeFormDefault="unqualified">
+  <element name="Operation">
+    <complexType>
+      <sequence>
+        <element name="Name" type="string" minOccurs="1" maxOccurs="1"/>
+        <element name="MsgIn" type="string" minOccurs="0" maxOccurs="unbounded"/>
+        <element name="MsgOut" type="string" minOccurs="0" maxOccurs="1"/>
+      </sequence>
+    </complexType>
+  </element>
+  <element name="Operations">
+    <complexType>
+      <sequence>
+        <element name="Operation" minOccurs="2" maxOccurs="unbounded"/>
+      </sequence>
+    </complexType>
+  </element>
+  <element name="Service">
+    <complexType>
+      <sequence>
+        <element name="Name" type="string" minOccurs="1" maxOccurs="1"/>
+        <element name="Provider" type="string" minOccurs="1" maxOccurs="1"/>
+        <element name="Operations" minOccurs="1" maxOccurs="1"/>
+        <element name="Category" type="string" minOccurs="1" maxOccurs="1">
+        </element>
+      </sequence>
+      <attribute name="ServiceUrl" type="string" use="required"/>
+      <attribute name="TryItUrl" type="string" use="optional"/>
+    </complexType>
+  </element>
+  <element name="Category">
+    <complexType>
+      <sequence>
+      </sequence>
+      <attribute name="Platform" type="string" use="optional"/>
+    </complexType>
+  </element>
+  <element name="Services">
+    <complexType>
+      <sequence>
+        <element name="Service" minOccurs="1" maxOccurs="unbounded"/>
+      </sequence>
+    </complexType>
+  </element>
+</schema>

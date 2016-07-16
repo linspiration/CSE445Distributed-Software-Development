@@ -1,0 +1,10 @@
+C:\Users\charles\Documents\Visual Studio 2010\Projects\TemperatureConvert\ErsiBrowser\bin\Debug\ErsiBrowser.exe
+C:\Users\charles\Documents\Visual Studio 2010\Projects\TemperatureConvert\ErsiBrowser\bin\Debug\ErsiBrowser.pdb
+C:\Users\charles\Documents\Visual Studio 2010\Projects\TemperatureConvert\ErsiBrowser\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\charles\Documents\Visual Studio 2010\Projects\TemperatureConvert\ErsiBrowser\obj\x86\Debug\ErsiBrowser.Form1.resources
+C:\Users\charles\Documents\Visual Studio 2010\Projects\TemperatureConvert\ErsiBrowser\obj\x86\Debug\ErsiBrowser.Properties.Resources.resources
+C:\Users\charles\Documents\Visual Studio 2010\Projects\TemperatureConvert\ErsiBrowser\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\charles\Documents\Visual Studio 2010\Projects\TemperatureConvert\ErsiBrowser\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\charles\Documents\Visual Studio 2010\Projects\TemperatureConvert\ErsiBrowser\obj\x86\Debug\ErsiBrowser.exe
+C:\Users\charles\Documents\Visual Studio 2010\Projects\TemperatureConvert\ErsiBrowser\obj\x86\Debug\ErsiBrowser.pdb
+C:\Users\charles\Documents\Visual Studio 2010\Projects\TemperatureConvert\ErsiBrowser\bin\Debug\ErsiBrowser.exe.config
